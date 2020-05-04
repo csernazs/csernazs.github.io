@@ -5,6 +5,9 @@ class: center, middle
 #### Zsolt Cserna (@csernazs)
 ##### Software Engineer @ One Identity
 
+<img src="talentera-logo.png" width="200px"/>
+
+
 ---
 # Purpose of this talk
 
@@ -344,9 +347,7 @@ class: center, middle
 # Demo time
 # 🤞
 
-https://bit.ly/2V8h4b1
-
-![](qrcode.svg)
+https://bit.ly/2yv5ON8
 
 
 ---
@@ -664,4 +665,7 @@ if __name__ == "__main__":
 
 ---
 class: center, middle
+
 # Q&A
+
+<img src="talentera-logo.png" width="200px"/>
